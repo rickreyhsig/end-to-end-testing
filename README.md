@@ -97,8 +97,3 @@ cy.intercept('GET', 'https://api.openweathermap.org/data/2.5/*', {
 
 
 ------
-
-### Getting Help 
-If you have issues with the Action Item, you can ask for help in the [Community](https://community.theseniordev.com/) or, in the [Weekly Calls](https://calendar.google.com/calendar/u/0?cid=Y19kbGVoajU1Z2prNXZmYmdoYmxtdDRvN3JyNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
-### Made with :orange_heart: in Berlin by @TheSeniorDev
